@@ -8,7 +8,7 @@ resource "aws_instance" "windows-1-instance" {
 
     key_name = "KEY-Frankfurt-WinServer2019"
 
-    user_data = file("winrm.ps") 
+    user_data = file("winrm1.ps") 
 
     tags = {
         "Name" = "Windows-1-instance"
@@ -25,7 +25,7 @@ resource "aws_instance" "windows-2-instance" {
 
     key_name = "KEY-Frankfurt-WinServer2019"
 
-    user_data = file("winrm.ps") 
+    user_data = file("winrm2.ps") 
 
     tags = {
         "Name" = "Windows-2-instance"
