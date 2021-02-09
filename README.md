@@ -1,4 +1,4 @@
-#   Terraform Task Windows Servers + Netrowk Load Balancer
+#   Terraform Task Windows Servers + Network Load Balancer
 
 
 ## Task
