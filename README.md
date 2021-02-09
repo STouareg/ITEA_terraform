@@ -1,6 +1,4 @@
-# Trainee Task Terraform
-
-[![N|Solid](https://mdsn.tk/favicon.png)](https://mdsn.tk)
+#   Terraform Task Windows Servers + Netrowk Load Balancer
 
 
 ## Task
